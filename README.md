@@ -5,6 +5,8 @@ This repo outlines Hugh's Nginx set up. He is running Ubuntu 16.04 and does not 
 
 His preference would be to either have `localhost:111111111 <--some port number`or `localhost/somefolder`.
 
+Inculded in this repo are two files as found in `/sites-available` and `/sites-enabled`. These are not defult. Hugh has already modified them to enable `.php` use.
+
 ## Nginx is located at
 
 ```
