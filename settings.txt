@@ -1,0 +1,31 @@
+$pwd /etc/nginx
+$ls 
+
+conf.d
+fastcgi.conf
+fastcgi_params
+koi-utf
+koi-win
+mime.types
+nginx.conf
+proxy_params
+scgi_params
+sites-available
+sites-enabled
+snippets
+uwsgi_params
+win-utf
+
+$PWD /var/www/html
+$ls
+index.apache2-2.html
+index.apache2.html
+index.nginx-debian.html
+index.php
+
+Location where hosted sites live:
+
+/home/greenlantern/Sites/Nginx/someFolder
+
+either localhost:111111111 <--some port number
+or localhost/somefolder
